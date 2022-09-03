@@ -1,8 +1,11 @@
 # depslib dependency file v1.0
-1662231612 source:c:\users\amr mohamed\desktop\c project\git&github\main.c
+1662235875 source:c:\users\amr mohamed\desktop\c project\git&github\main.c
 	<stdio.h>
 	<stdlib.h>
 	"Head.h"
 
-1662231612 c:\users\amr mohamed\desktop\c project\git&github\head.h
+1662235810 c:\users\amr mohamed\desktop\c project\git&github\head.h
+
+1662235776 source:c:\users\amr mohamed\desktop\c project\git&github\head.c
+	"Head.h"
 
